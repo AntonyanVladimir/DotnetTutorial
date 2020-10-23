@@ -80,7 +80,7 @@
             "ssl": true,
             "browserTarget": "client:build"
           }
-        },
+        }, 
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
